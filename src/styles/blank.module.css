@@ -1,0 +1,21 @@
+.blankcontainer{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    font-weight: bolder;
+    margin-top: 180px;
+}
+
+.blankcontainer:hover{
+    color: #ffff;
+    cursor: pointer;
+}
+
+.delay{
+    padding-top: 20px;
+}
+.delay:hover{
+    transition-duration: 5s;
+    transition-delay: 1.2s;
+}

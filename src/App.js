@@ -1,8 +1,11 @@
 import React from 'react'
+import Blank from './components/Blank'
 
 const App = () => {
   return (
-    <div>stupid shit</div>
+    <div>
+      <Blank />
+    </div>
   )
 }
 
