@@ -19,3 +19,8 @@
     transition-duration: 5s;
     transition-delay: 1.2s;
 }
+
+.overlay{
+    background-color: black;
+}
+
