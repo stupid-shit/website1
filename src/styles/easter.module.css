@@ -1,0 +1,80 @@
+.eastercon{
+    display: flex;
+    align-items: center;
+}
+
+.eastercon2{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+}
+
+
+.container{
+    color: white;
+    font-size: 40px;
+}
+
+.stupid{
+    text-align: center;
+    justify-content: center;
+
+}
+
+.stuff{
+    text-align: center;
+    justify-content: center;
+
+}
+
+.you{
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 45px;
+    padding-top: 20px;
+
+}
+
+.stupidcon{
+    margin-top: 150px;
+}
+
+.right{
+   opacity: 0;
+    margin-left: 1200px;
+}
+
+
+.right:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+
+.right2:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+.right2{
+   opacity: 0;
+
+    margin-left: 1375px;
+}
+
+.hackclub{
+   opacity: 0;
+}
+
+.hackclub:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+
+.dino{
+    opacity: 0;
+ }
+ 
+ .dino:hover{
+     cursor: pointer;
+     opacity: 1;
+ }

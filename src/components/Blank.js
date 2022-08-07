@@ -15,7 +15,7 @@ const Blank = () => {
     or is it??
   </div>
   </div>
-  <div className={styles.overlay}>
+  <div>
   <Jumpscare 
 
       modalVisible={modalVisible}

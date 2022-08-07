@@ -1,0 +1,25 @@
+.timer{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    padding-top: 25px;
+}
+
+.character{
+    height:5px;
+    width:5px;
+    background-color: green;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-top: 400px;
+    justify-content: center;
+    text-align: center;
+    margin-left: 760px;
+   
+}
+
+.platform{
+    text-align: center;
+    justify-content: center;
+}
