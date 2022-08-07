@@ -24,12 +24,9 @@ const Easteregg = () => {
         <div className={styles.stuff}>
             stuff nobody needs
         </div>
-        <div className={styles.you}>
-            Like You
-        </div>
         </div>
         <div className={styles.eastercon2}>
-            <a href="chrome://dino/">
+            <a href="https://stupid-shit.github.io/">
             <div className={styles.dino}>
             <img src={dino} alt="dino" />
             </div>
