@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+
 .blankcontainer{
     text-align: center;
     justify-content: center;
@@ -5,6 +8,7 @@
     font-size: 100px;
     font-weight: bolder;
     margin-top: 180px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .blankcontainer:hover{

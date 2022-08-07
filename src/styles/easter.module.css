@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
 .eastercon{
     display: flex;
     align-items: center;
@@ -13,6 +15,7 @@
 .container{
     color: white;
     font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .stupid{
