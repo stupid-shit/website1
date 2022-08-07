@@ -29,9 +29,11 @@ const Easteregg = () => {
         </div>
         </div>
         <div className={styles.eastercon2}>
+            <a href="chrome://dino/">
             <div className={styles.dino}>
             <img src={dino} alt="dino" />
             </div>
+            </a>
             <a href="https://www.youtube.com/watch?v=H8ZH_mkfPUY">
             <div className={styles.right2}>
                 <img src={boba} alt="boba" />
