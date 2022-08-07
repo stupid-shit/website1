@@ -8,12 +8,14 @@ const Blank = () => {
   return (
   <div  className={styles.blankcontainer}>
   <div onClick={() => setModalVisible(true)}>
+    <a href="javascript:setTimeout(()=>{window. location = 'https://stupid-shit.github.io/' },5000);">
   <div>
     This Website is Blank
   </div>
   <div className={styles.delay}>
     or is it??
   </div>
+  </a>
   </div>
   <div>
   <Jumpscare 
