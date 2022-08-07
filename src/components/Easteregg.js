@@ -8,9 +8,11 @@ const Easteregg = () => {
   return (
     <div className={styles.container}>
         <div className={styles.eastercon}>
+            <a href="https://assemble.hackclub.com/">
             <div className={styles.hackclub}>
             <img src={hackclub} alt="hackclub" />
             </div>
+            </a>
             <div className={styles.right}>
                 <img src={boba} alt="boba" />
             </div>
@@ -30,9 +32,11 @@ const Easteregg = () => {
             <div className={styles.dino}>
             <img src={dino} alt="dino" />
             </div>
+            <a href="https://www.youtube.com/watch?v=H8ZH_mkfPUY">
             <div className={styles.right2}>
                 <img src={boba} alt="boba" />
             </div>
+            </a>
         </div>
     </div>
   )
